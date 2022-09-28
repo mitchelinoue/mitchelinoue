@@ -4,7 +4,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="350" align="right"/>
 
-- :credit_card: My full name is **Mitchel Inoue**
+- :credit_card: My name is **Mitchel Inoue**
 - :school:  I’m currently learning Web Development and other programming languages =)
 - :books: My major is **Civil Engineering**
 - :earth_asia: I'm living now in **São Paulo, Brazil**
