@@ -9,3 +9,5 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
+
+[![My user statistics](images/userstats.svg)](https://github.com/mitchelinoue/user-statistician)
