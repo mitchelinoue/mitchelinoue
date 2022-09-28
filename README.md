@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2D9CCC&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Mitchel+%3C3;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="350" align="right"/>
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="400" align="right"/>
 
 - :credit_card: My name is **Mitchel Inoue**
 - :school:  I’m currently learning Web Development and other programming languages =)
