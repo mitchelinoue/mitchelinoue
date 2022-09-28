@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Mitchel+%3C3;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2D9CCC&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Mitchel+%3C3;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="350" align="right"/>
@@ -10,6 +10,7 @@
 - :earth_asia: I'm living now in **São Paulo, Brazil**
 - :sweat_smile: I'm a newbie in coding. Now I'm focus on learning Web Development.
 - :monocle_face: I'm interested in coding, sleeping, eating out and watching movies
+- :knife_fork_plate: My favorite food is Strogonoff and BATATA (for my SoulCode friends)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
