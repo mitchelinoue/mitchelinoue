@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2D9CCC&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Mitchel+%3C3;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="400" align="right"/>
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me 
 
-- :credit_card: My name is **Mitchel Inoue**
+- :credit_card: My name is **Mitchel Inoue**<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" align="right"/>
 - :school:  I’m currently learning Web Development and other programming languages =)
 - :books: My major is **Civil Engineering**
 - :briefcase: Currently making a carrer transition into Tech
