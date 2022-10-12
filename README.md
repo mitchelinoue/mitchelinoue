@@ -11,7 +11,7 @@
 - :earth_asia: I live in **São Paulo, Brazil**
 - :sweat_smile: I'm a newbie at programming. Any tips will be appreciated
 - :monocle_face: I'm interested in coding, sleeping, eating out and watching movies
-- :plate_with_cutlery: My favorite food is Strogonoff (and BATATA for my SoulCode friends)
+- :plate_with_cutlery: My favorite food is Strogonoff (and BATATA according to my SoulCode friends)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
