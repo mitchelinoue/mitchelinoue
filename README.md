@@ -4,7 +4,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me 
 
-- :credit_card: My name is **Mitchel Inoue**<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" align="right"/>
+- :credit_card: My name is **Mitchel Inoue**<img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/code.gif?raw=true" width="300" align="right"/>
 - :school:  I’m currently learning Web Development and other programming languages =)
 - :books: My major is **Civil Engineering**
 - :briefcase: Currently making a carrer transition into Tech
