@@ -7,7 +7,7 @@
 - :school:  I’m currently learning Web Development and other programming languages =)
 - :books: My major is **Civil Engineering**
 - :briefcase: Currently making a carrer transition into Tech
-- :earth_asia: I live in **São Paulo, Brazil**
+- :earth_asia: I live in **São Paulo, SP - Brazil**
 - :sweat_smile: I'm a newbie at programming. Any tips will be appreciated
 - :monocle_face: I'm interested in coding, sleeping, eating out and watching movies
 - :plate_with_cutlery: My favorite food is Strogonoff (and BATATA according to my SoulCode friends)
