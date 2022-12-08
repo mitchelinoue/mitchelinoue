@@ -27,7 +27,7 @@
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mitchelinoue&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=mitchelinoue&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mitchelinoue&theme=react-dark&area=true&hide_border=true"/>
 </div>
 
 ## <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
