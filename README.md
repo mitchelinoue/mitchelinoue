@@ -1,4 +1,4 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2D9CCC&size=60&center=true&vCenter=true&duration=3000&height=80&width=800&lines=Heyyy!+I'm+Mitchel+%3C3;Welcome+to+my+profile!" alt="Title"></img>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2D9CCC&size=60&center=true&vCenter=true&duration=3500&height=80&width=900&lines=Heyyy,+fellow+<coders/>!;I'm+Mitchel+%3C3;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 ## <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/wave.gif" width="50px"></img> About Me 
