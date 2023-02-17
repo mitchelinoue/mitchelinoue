@@ -30,6 +30,27 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mitchelinoue&theme=react-dark&area=true&hide_border=true"/>
 </div>
 
+## <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/handshake.gif' width="80px"> Some projects I'm proud of
+<p align="center">
+<a href="https://github.com/mitchelinoue/games-javascript">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=mitchelinoue&repo=games-javascript&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/mitchelinoue/harvard_cs50_course">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=mitchelinoue&repo=harvard_cs50_course&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/mitchelinoue/soulcode_spring">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=mitchelinoue&repo=soulcode_spring&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/mitchelinoue/soulcode_rxjs">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=mitchelinoue&repo=soulcode_rxjs&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" />
+</a>
+</p>
+
 ## <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="mailto:mitchel_inoue@msn.com" >
@@ -47,3 +68,4 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+
