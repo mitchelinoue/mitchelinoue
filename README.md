@@ -30,7 +30,7 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mitchelinoue&theme=react-dark&area=true&hide_border=true"/>
 </div>
 
-## <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/Developer.gif' width="70px"> Some projects that I'm proud of
+## <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy.gif' width="55px"> Some projects that I'm proud of
 <p align="center">
 <a href="https://github.com/mitchelinoue/games-javascript">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=mitchelinoue&repo=games-javascript&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" />
@@ -67,5 +67,5 @@
 <p> 
 
 <div align="center">
-<img height="30" alt="Thanks for visiting me" width="100%" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/marquee.svg" />
+<img height="45" alt="Thanks for visiting me" width="100%" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/marquee.svg" />
 
