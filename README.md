@@ -67,5 +67,5 @@
 <p> 
 
 <div align="center">
-<img height="70" alt="Thanks for visiting me" width="70%" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/marquee.svg" />
+<img height="30" alt="Thanks for visiting me" width="100%" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/marquee.svg" />
 
