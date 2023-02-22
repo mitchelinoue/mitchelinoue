@@ -67,5 +67,5 @@
 <p> 
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+<img height="70" alt="Thanks for visiting me" width="70%" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/marquee.svg" />
 
