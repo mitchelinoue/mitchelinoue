@@ -22,8 +22,8 @@
 ## <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy%20(1).webp" width="50px"> About Some Stats
 ![](https://komarev.com/ghpvc/?username=mitchelinoue)<img align="right" alt="GitHub followers" src="https://img.shields.io/github/followers/mitchelinoue?style=social">
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchelinoue&layout=compact&show_icon=true&theme=algolia" alt="mitchelinoue-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=mitchelinoue&layout=compact&show_icon=true&theme=algolia" alt="mitchelinoue-stats"/>
+<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mitchelinoue&layout=compact&show_icon=true&theme=algolia" alt="mitchelinoue-langs"/>
+<img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=mitchelinoue&layout=compact&show_icon=true&theme=algolia" alt="mitchelinoue-stats"/>
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mitchelinoue&theme=algolia&background=0d1117&hide_border=true" />
@@ -33,21 +33,21 @@
 ## <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy.gif' width="45px">  Some projects that I'm proud of
 <p align="center">
 <a href="https://github.com/mitchelinoue/games-javascript">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=mitchelinoue&repo=games-javascript&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" />
+<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=games-javascript&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/mitchelinoue/harvard_cs50_course">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=mitchelinoue&repo=harvard_cs50_course&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" />
+<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=harvard_cs50_course&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/mitchelinoue/soulcode_spring">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=mitchelinoue&repo=soulcode_spring&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" />
+<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=soulcode_spring&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/mitchelinoue/soulcode_rxjs">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=mitchelinoue&repo=soulcode_rxjs&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" />
+<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=soulcode_rxjs&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" />
 </a>
 </p>
 
