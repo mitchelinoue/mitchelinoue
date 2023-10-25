@@ -6,9 +6,9 @@
 - :credit_card: My name is **Mitchel Inoue**<img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/code.gif?raw=true" width="300" align="right"/>
 - :school:  I’m currently learning Web Development and other programming languages =)
 - :books: My major is **Civil Engineering**
-- :briefcase: Currently making a carrer transition into Tech
+- :briefcase: Currently working in a tech company with big clients
 - :earth_asia: I live in **São Paulo, SP - Brazil**
-- :sweat_smile: I'm a newbie at programming. Any tips will be much appreciated
+- :sweat_smile: I'm at a junior level in programming. Any tips will be much appreciated
 - :monocle_face: I'm interested in coding, sleeping, eating out and watching movies
 - :plate_with_cutlery: My favorite food is Strogonoff (and BATATA according to my SoulCode friends)
 
