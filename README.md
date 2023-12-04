@@ -3,10 +3,10 @@
 
 ## <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/wave.gif" width="50px"></img> About Me 
 
-- :credit_card: My name is **Mitchel Inoue**<img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/code.gif?raw=true" width="300" align="right"/>
-- :school:  I’m currently learning Web Development and other programming languages =)
+- :credit_card: My name is **Mitchel Inoue** =)<img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/code.gif?raw=true" width="300" align="right"/>
 - :books: My major is **Civil Engineering**
 - :briefcase: Currently working in a tech company with big clients
+- :school:  It is kinda empty here because i'm mostly using my work repository nowadays...
 - :earth_asia: I live in **São Paulo, SP - Brazil**
 - :sweat_smile: I'm at a junior level in programming. Any tips will be much appreciated
 - :monocle_face: I'm interested in coding, sleeping, eating out and watching movies
