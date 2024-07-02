@@ -4,7 +4,7 @@
 ## <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/wave.gif" width="50px"></img> About Me 
 
 - :credit_card: My name is **Mitchel Inoue** =)<img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/code.gif?raw=true" width="300" align="right"/>
-- :books: My major is **Civil Engineering**
+- :books: My major is **Civil Engineering**, currently doing MBA in software Engineering
 - :briefcase: Currently working in a tech company with big clients
 - :school:  It is kinda empty here because i'm mostly using my work repository nowadays...
 - :earth_asia: I live in **São Paulo, SP - Brazil**
