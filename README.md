@@ -13,7 +13,7 @@
 - :plate_with_cutlery: My favorite food is Strogonoff (and BATATA according to my SoulCode friends)
 
 ## <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy.webp" width="50px"> Some Languages, Frameworks/Libraries and Tools
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=5A5757B&color=5A5757) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" width="74px"> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=5A5757B&color=5A5757) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![AngularMaterial](https://img.shields.io/badge/material-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&labelColor=3E50B3&color=3E50B3) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white&labelColor=D81B60&color=D81B60)
 
@@ -53,16 +53,16 @@
 
 ## <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
-  <a href="mailto:mitchel_inoue@msn.com" >
-    <img align="center" alt="Mitchel Inoue | Gmail" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/Gmail.svg" />
+  <a href="mailto:mitchel_inoue@msn.com">
+    <img align="center" alt="Mitchel Inoue | Gmail" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/Gmail.svg"/>
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/mitchel-inoue-b97844104/" target="_blank">
-    <img align="center" alt="Mitchel Inoue | Linkedin" width="24px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/Linkedin.svg" />
+    <img align="center" alt="Mitchel Inoue | Linkedin" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/Linkedin.svg"/>
   </a> &nbsp;&nbsp;
   
   <a href="https://profile-summary-for-github.herokuapp.com/user/mitchelinoue" target="_blank">
-    <img align="center" alt="Mitchel Inoue | GitHub" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/1024px-Github-desktop-logo-symbol.svg.png" />
+    <img align="center" alt="Mitchel Inoue | GitHub" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/1024px-Github-desktop-logo-symbol.svg.png"/>
   </a> &nbsp;&nbsp;
 <p> 
 
