@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=mitchelinoue)<img align="right" alt="GitHub followers" src="https://img.shields.io/github/followers/mitchelinoue?style=social">
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2D9CCC&size=60&center=true&vCenter=true&duration=3500&pause=50&height=80&width=900&lines=Heyyy,+fellow+<coders/>!;I'm+Mitchel+:);Welcome+to+my+profile!" alt="Title"></img></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2D9CCC&size=60&center=true&vCenter=true&duration=3500&pause=50&height=70&width=900&lines=Heyyy,+fellow+<coders/>!;I'm+Mitchel+:);Welcome+to+my+profile!" alt="Title"></img></div>
 
 ## <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/wave.gif" width="50px"></img> About Me 
 - :credit_card: My name is **Mitchel Inoue** =)<img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/code.gif?raw=true" width="280" align="right"/>
@@ -21,6 +20,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy%20(1).webp" width="50px"> About Some Stats
+![](https://komarev.com/ghpvc/?username=mitchelinoue)<img align="right" alt="GitHub followers" src="https://img.shields.io/github/followers/mitchelinoue?style=social">
 <div align="center">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mitchelinoue&layout=compact&show_icon=true&theme=algolia" alt="mitchelinoue-langs"/>
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=mitchelinoue&layout=compact&show_icon=true&theme=algolia" alt="mitchelinoue-stats"/>
@@ -52,5 +52,5 @@
 <p> 
 
 <div align="center">
-  <img height="45" alt="Thanks for visiting me" width="100%" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/marquee.svg" />
+  <img height="50" alt="Thanks for visiting me" width="100%" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/marquee.svg" />
 </div>
