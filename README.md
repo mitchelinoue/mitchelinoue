@@ -5,7 +5,7 @@
 
 - :credit_card: My name is **Mitchel Inoue** =)<img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/code.gif?raw=true" width="300" align="right"/>
 - :books: My major is **Civil Engineering**, currently pursuing an MBA in **Software Engineering**
-- :briefcase: Working in a tech company with big clients in the financial sector
+- :briefcase: Working in one of the biggest tech company in the country!
 - :school:  It is kinda empty in here... I'm mostly using my work repository nowadays...
 - :earth_asia: I live in **São Paulo, SP - Brazil**
 - :sweat_smile: I'm fairly new in programming. Any tips will be much appreciated
