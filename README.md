@@ -31,6 +31,7 @@
 <div align="center">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mitchelinoue&layout=compact&show_icon=true&theme=nord" alt="mitchelinoue-langs"/>
   <span>&nbsp;</span>
+  <span>&nbsp;</span>
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=mitchelinoue&layout=compact&show_icon=true&theme=nord" alt="mitchelinoue-stats"/>
 </div>
 <span>&nbsp;</span>
