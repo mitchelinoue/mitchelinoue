@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=mitchelinoue)<img align="right" alt="GitHub followers" src="https://img.shields.io/github/followers/mitchelinoue?style=social">
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2D9CCC&size=60&center=true&vCenter=true&duration=3500&pause=50&height=70&width=900&lines=Heyyy,+fellow+<coders/>!;I'm+Mitchel+:);Welcome+to+my+profile!" alt="Title"></img></div>
 
 # <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/wave.gif" width="30px"></img> About Me 
@@ -24,7 +25,6 @@
 </br>
 
 ## <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy%20(1).webp" width="30px"> About Some Stats
-![](https://komarev.com/ghpvc/?username=mitchelinoue)<img align="right" alt="GitHub followers" src="https://img.shields.io/github/followers/mitchelinoue?style=social">
 <div align="center">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mitchelinoue&layout=compact&show_icon=true&theme=nord" alt="mitchelinoue-langs"/>
   <span>&nbsp;</span>
