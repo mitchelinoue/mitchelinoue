@@ -8,8 +8,8 @@
 - :briefcase: Working at one of the largest tech companies in the country!
 - :books: Currently pursuing an MBA in **Software Engineering**.
 - :earth_asia: I live in **São Paulo, SP - Brazil**.
-- :sweat_smile: I'm fairly new in programming. Any tips will be much appreciated.
-- :monocle_face: I'm interested in coding, sleeping, eating out and watching movies.
+- :sweat_smile: I'm relatively new to programming. Any tips will be much appreciated.
+- :monocle_face: My interests are: coding, sleeping, eating out and watching movies/series.
 - :plate_with_cutlery: My favorite food is Strogonoff (and BATATA according to my SoulCode friends).
 
 ## <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy.webp" width="50px"> Some Languages, Frameworks/Libraries, DB's and Tools
