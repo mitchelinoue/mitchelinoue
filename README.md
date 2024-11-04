@@ -4,7 +4,7 @@
 ## <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/wave.gif" width="50px"></img> About Me 
 
 - :credit_card: My name is **Mitchel Inoue** =)<img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/code.gif?raw=true" width="300" align="right"/>
-- :heavy_exclamation_mark: It feels abandoned here because I've mainly been using my work repository lately....
+- :heavy_exclamation_mark: It feels abandoned here because I've mainly been using my work repository...
 - :briefcase: Working at one of the largest tech companies in the country!
 - :books: Currently pursuing an MBA in **Software Engineering**.
 - :earth_asia: I live in **São Paulo, SP - Brazil**.
