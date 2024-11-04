@@ -12,7 +12,7 @@
   
 </br>
 
-## <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy.webp" width="27px"> Some Languages, Frameworks/Libraries, DB's and Tools
+## <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy.webp" width="25px"> Some Languages, Frameworks/Libraries, DB's and Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black&color=45423f&labelColor=ED8B00) <span>&nbsp;</span> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=black&color=45423f&labelColor=007ACC) <span>&nbsp;</span> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=black&color=45423f&labelColor=FFFF00) <span>&nbsp;</span> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black&color=45423f&labelColor=E34F26) <span>&nbsp;</span> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=black&color=45423f&labelColor=1572B6) 
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=black&color=45423f&labelColor=6DB33F) <span>&nbsp;</span> ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=black&color=45423f&labelColor=DD0031) <span>&nbsp;</span> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black&color=45423f&labelColor=6DA55F) <span>&nbsp;</span> ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=black&color=45423f&labelColor=8511FA) 
@@ -33,7 +33,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mitchelinoue&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 
-## <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy.gif' width="34px"> Some Projects That I'm Proud
+## <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy.gif' width="30px"> Some Projects That I'm Proud
 <p align="center">
   <a href="https://github.com/mitchelinoue/games-javascript"><img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=games-javascript&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" /></a>
   <span>&nbsp;</span>
