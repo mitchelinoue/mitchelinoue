@@ -3,7 +3,7 @@
 
 ## <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/wave.gif" width="50px"></img> About Me 
 
-- :credit_card: My name is **Mitchel Inoue** =)<img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/code.gif?raw=true" width="300" align="right"/>
+- :credit_card: My name is **Mitchel Inoue** =)<img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/code.gif?raw=true" width="290" align="right"/>
 - :heavy_exclamation_mark: It feels abandoned here because I've mainly been using my work repository...
 - :briefcase: Working at one of the largest tech companies in the country!
 - :books: Currently pursuing an MBA in **Software Engineering**.
@@ -29,7 +29,7 @@
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mitchelinoue&theme=algolia&background=0d1117&hide_border=true" />
-<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mitchelinoue&theme=react-dark&area=true&hide_border=true"/> -->
+
 </div>
 
 ## <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy.gif' width="45px">  Some projects that I'm proud of
