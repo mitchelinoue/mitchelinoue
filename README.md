@@ -33,8 +33,6 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mitchelinoue&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 
-</br>
-
 ## <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy.gif' width="34px"> Some Projects That I'm Proud
 <p align="center">
   <a href="https://github.com/mitchelinoue/games-javascript"><img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=games-javascript&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" /></a>
