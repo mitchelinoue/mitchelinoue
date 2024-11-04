@@ -1,4 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=mitchelinoue)<img align="right" alt="GitHub followers" src="https://img.shields.io/github/followers/mitchelinoue?style=social">
+
+</br>
+
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2D9CCC&size=60&center=true&vCenter=true&duration=3500&pause=50&height=70&width=900&lines=Heyyy,+fellow+<coders/>!;I'm+Mitchel+:);Welcome+to+my+profile!" alt="Title"></img></div>
 
 # <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/wave.gif" width="30px"></img> About Me 
