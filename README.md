@@ -34,40 +34,23 @@
 
 ## <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy.gif' width="45px">  Some Projects That I'm Proud Of
 <p align="center">
-<a href="https://github.com/mitchelinoue/games-javascript">
-<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=games-javascript&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" />
-</a>
+<a href="https://github.com/mitchelinoue/games-javascript"><img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=games-javascript&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" /></a>
 <span>&nbsp;</span>
-<a href="https://github.com/mitchelinoue/harvard_cs50_course">
-<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=harvard_cs50_course&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" />
-</a>
+<a href="https://github.com/mitchelinoue/harvard_cs50_course"><img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=harvard_cs50_course&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/mitchelinoue/soulcode_spring">
-<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=soulcode_spring&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" />
-</a>
+<a href="https://github.com/mitchelinoue/soulcode_spring"><img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=soulcode_spring&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" /></a>
 <span>&nbsp;</span>
-<a href="https://github.com/mitchelinoue/soulcode_rxjs">
-<img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=soulcode_rxjs&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" />
-</a>
+<a href="https://github.com/mitchelinoue/soulcode_rxjs"><img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=soulcode_rxjs&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" /></a>
 </p>
 
 ## <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
-  <a href="mailto:mitchel_inoue@msn.com">
-    <img align="center" alt="Mitchel Inoue | Gmail" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/Gmail.svg"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/mitchel-inoue-b97844104/" target="_blank">
-    <img align="center" alt="Mitchel Inoue | Linkedin" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/Linkedin.svg"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://profile-summary-for-github.herokuapp.com/user/mitchelinoue" target="_blank">
-    <img align="center" alt="Mitchel Inoue | GitHub" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/1024px-Github-desktop-logo-symbol.svg.png"/>
-  </a> &nbsp;&nbsp;
+<a href="mailto:mitchel_inoue@msn.com"><img align="center" alt="Mitchel Inoue | Gmail" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/Gmail.svg"/></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mitchel-inoue-b97844104/" target="_blank"><img align="center" alt="Mitchel Inoue | Linkedin" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/Linkedin.svg"/></a> &nbsp;&nbsp;
+<a href="https://profile-summary-for-github.herokuapp.com/user/mitchelinoue" target="_blank"><img align="center" alt="Mitchel Inoue | GitHub" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/1024px-Github-desktop-logo-symbol.svg.png"/></a> &nbsp;&nbsp;
 <p> 
 
 <div align="center">
 <img height="45" alt="Thanks for visiting me" width="100%" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/marquee.svg" />
-
