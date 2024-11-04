@@ -4,13 +4,13 @@
 ## <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/wave.gif" width="50px"></img> About Me 
 
 - :credit_card: My name is **Mitchel Inoue** =)<img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/code.gif?raw=true" width="300" align="right"/>
-- :books: My major is **Civil Engineering**, currently pursuing an MBA in **Software Engineering**
+- :heavy_exclamation_mark: It feels abandoned here because I've mainly been using my work repository lately....
 - :briefcase: Working at one of the largest tech companies in the country!
-- :school:  It is kinda empty in here... I'm mostly using my work repository nowadays...
-- :earth_asia: I live in **São Paulo, SP - Brazil**
-- :sweat_smile: I'm fairly new in programming. Any tips will be much appreciated
-- :monocle_face: I'm interested in coding, sleeping, eating out and watching movies
-- :plate_with_cutlery: My favorite food is Strogonoff (and BATATA according to my SoulCode friends)
+- :books: Currently pursuing an MBA in **Software Engineering**.
+- :earth_asia: I live in **São Paulo, SP - Brazil**.
+- :sweat_smile: I'm fairly new in programming. Any tips will be much appreciated.
+- :monocle_face: I'm interested in coding, sleeping, eating out and watching movies.
+- :plate_with_cutlery: My favorite food is Strogonoff (and BATATA according to my SoulCode friends).
 
 ## <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy.webp" width="50px"> Some Languages, Frameworks/Libraries, DB's and Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=5A5757B&color=5A5757) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
