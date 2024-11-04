@@ -16,7 +16,7 @@
   
 </br>
 
-## <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy.webp" width="25px"> Some Languages, Frameworks/Libraries, DB's and Tools
+## <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy.webp" width="25px"> Some Languages, Frameworks/Libs, DB's and Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black&color=gray&labelColor=ED8B00) <span>&nbsp;</span> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=black&color=gray&labelColor=007ACC) <span>&nbsp;</span> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=black&color=gray&labelColor=FFFF00) <span>&nbsp;</span> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black&color=gray&labelColor=E34F26) <span>&nbsp;</span> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=black&color=gray&labelColor=1572B6) 
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=black&color=gray&labelColor=6DB33F) <span>&nbsp;</span> ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=black&color=gray&labelColor=DD0031) <span>&nbsp;</span> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black&color=gray&labelColor=6DA55F) <span>&nbsp;</span> ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=black&color=gray&labelColor=8511FA) 
