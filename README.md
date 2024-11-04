@@ -29,7 +29,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mitchelinoue&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 
-# <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy.gif' width="35px"> Some Projects That I'm Proud Of
+# <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy.gif' width="35px"> Some Projects That I'm Proud
 <p align="center">
   <a href="https://github.com/mitchelinoue/games-javascript"><img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=games-javascript&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" /></a>
   <span>&nbsp;</span>
@@ -41,13 +41,13 @@
   <a href="https://github.com/mitchelinoue/soulcode_rxjs"><img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=soulcode_rxjs&border_color=2D9CCC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2D9CCC" /></a>
 </p>
 
-## <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/handshake.gif' width="60px"> For More Information, Please Check Out or Connect Me Via
+# <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/handshake.gif' width="60px"> Please Check Out or Connect Me Via
 <p align="center">
-  <a href="mailto:mitchel_inoue@msn.com"><img align="center" alt="Mitchel Inoue | Gmail" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/Gmail.svg"/></a>
+  <a href="mailto:mitchel_inoue@msn.com"><img width="35px" align="center" alt="Mitchel Inoue | Gmail" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/Gmail.svg"/></a>
   <span>&nbsp;</span>
-  <a href="https://www.linkedin.com/in/mitchel-inoue-b97844104/" target="_blank"><img align="center" alt="Mitchel Inoue | Linkedin" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/Linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/mitchel-inoue-b97844104/" target="_blank"><img width="35px" align="center" alt="Mitchel Inoue | Linkedin" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/Linkedin.svg"/></a>
   <span>&nbsp;</span>
-  <a href="https://profile-summary-for-github.herokuapp.com/user/mitchelinoue" target="_blank"><img align="center" alt="Mitchel Inoue | GitHub" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/1024px-Github-desktop-logo-symbol.svg.png"/></a>
+  <a href="https://profile-summary-for-github.herokuapp.com/user/mitchelinoue" target="_blank"><img width="35px" align="center" alt="Mitchel Inoue | GitHub" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/1024px-Github-desktop-logo-symbol.svg.png"/></a>
   <span>&nbsp;</span>
 <p> 
 
