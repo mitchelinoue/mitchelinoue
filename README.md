@@ -27,10 +27,12 @@
 ![](https://komarev.com/ghpvc/?username=mitchelinoue)<img align="right" alt="GitHub followers" src="https://img.shields.io/github/followers/mitchelinoue?style=social">
 <div align="center">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mitchelinoue&layout=compact&show_icon=true&theme=nord" alt="mitchelinoue-langs"/>
+  <span>&nbsp;</span>
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=mitchelinoue&layout=compact&show_icon=true&theme=nord" alt="mitchelinoue-stats"/>
 </div>
+<span>&nbsp;</span>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=mitchelinoue&theme=nord&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=mitchelinoue&theme=nord"/>
 </div>
 
 ## <img src='https://github.com/mitchelinoue/mitchelinoue/blob/main/giphy.gif' width="30px"> Some Projects That I'm Proud
