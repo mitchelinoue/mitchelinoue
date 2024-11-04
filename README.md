@@ -48,7 +48,7 @@
 <p align="center">
   <a href="https://github.com/mitchelinoue/soulcode_spring"><img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=soulcode_spring&theme=nord" /></a>
   <span>&nbsp;</span>
-  <a href="https://github.com/mitchelinoue/soulcode_rxjs"><img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=soulcode_rxjs&theme=nord" /></a>
+  <a href="https://github.com/mitchelinoue/soulcode_angular"><img width='49%' align="center"src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mitchelinoue&repo=soulcode_angular&theme=nord" /></a>
 </p>
 
 </br>
