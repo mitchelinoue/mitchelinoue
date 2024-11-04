@@ -45,10 +45,15 @@
 <p align="center">
   <a href="mailto:mitchel_inoue@msn.com"><img width="35px" align="center" alt="Mitchel Inoue | Gmail" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/Gmail.svg"/></a>
   <span>&nbsp;</span>
+  <span>&nbsp;</span>
+    <span>&nbsp;</span>
+  <span>&nbsp;</span>
   <a href="https://www.linkedin.com/in/mitchel-inoue-b97844104/" target="_blank"><img width="35px" align="center" alt="Mitchel Inoue | Linkedin" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/Linkedin.svg"/></a>
   <span>&nbsp;</span>
-  <a href="https://profile-summary-for-github.herokuapp.com/user/mitchelinoue" target="_blank"><img width="35px" align="center" alt="Mitchel Inoue | GitHub" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/1024px-Github-desktop-logo-symbol.svg.png"/></a>
   <span>&nbsp;</span>
+    <span>&nbsp;</span>
+  <span>&nbsp;</span>
+  <a href="https://profile-summary-for-github.herokuapp.com/user/mitchelinoue" target="_blank"><img width="35px" align="center" alt="Mitchel Inoue | GitHub" width="26px" src="https://github.com/mitchelinoue/mitchelinoue/blob/main/1024px-Github-desktop-logo-symbol.svg.png"/></a>
 <p> 
 
 <div align="center">
