@@ -5,8 +5,8 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2D9CCC&size=60&center=true&vCenter=true&duration=3500&pause=50&height=70&width=900&lines=Heyyy,+fellow+<coders/>!;I'm+Mitchel+:);Welcome+to+my+profile!" alt="Title"></img></div>
 
 # <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/wave.gif" width="30px"></img> About Me 
-- :heavy_exclamation_mark: It feels abandoned here because I've mainly been using my work repository...
-- :credit_card: My name is **Mitchel Inoue** =)<img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/code.gif?raw=true" width="270" align="right"/>
+- :heavy_exclamation_mark: It feels abandoned here because I've mainly been using my work repository... <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/code.gif?raw=true" width="290" align="right"/>
+- :credit_card: My name is **Mitchel Inoue** =)
 - :briefcase: Working at one of the largest tech companies in the country!
 - :pencil: Currently pursuing an MBA in **Software Engineering**.
 - :earth_africa: I live in **São Paulo, SP - Brazil**.
