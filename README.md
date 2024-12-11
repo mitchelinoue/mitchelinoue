@@ -7,11 +7,11 @@
 # <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/wave.gif" width="30px"></img> About Me 
 - :heavy_exclamation_mark: It feels abandoned here because I've mainly been using my work repository... <img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/code.gif?raw=true" width="270" align="right"/>
 - :credit_card: My name is **Mitchel Inoue** =)
+- :earth_africa: I live in **São Paulo, SP - Brazil**.
 - :briefcase: Working at one of the largest tech companies in the country!
 - :pencil: Currently pursuing an MBA in **Software Engineering**.
-- :earth_africa: I live in **São Paulo, SP - Brazil**.
-- :sweat_smile: I'm relatively new to programming. Any tips will be much appreciated.
 - :sparkles: My interests are: coding, sleeping, eating out and watching movies/series.
+- :sweat_smile: I'm relatively new to programming. Any tips will be much appreciated.
 - :plate_with_cutlery: My favorite food is Strogonoff (and BATATA according to my SoulCode friends).
   
 </br>
