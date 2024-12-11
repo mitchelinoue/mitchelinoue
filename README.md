@@ -8,10 +8,10 @@
 - :heavy_exclamation_mark: It feels abandoned here because I've mainly been using my work repository...
 - :credit_card: My name is **Mitchel Inoue** =)<img src="https://github.com/mitchelinoue/mitchelinoue/blob/main/code.gif?raw=true" width="270" align="right"/>
 - :briefcase: Working at one of the largest tech companies in the country!
-- :books: Currently pursuing an MBA in **Software Engineering**.
-- :earth_asia: I live in **São Paulo, SP - Brazil**.
+- :pencil: Currently pursuing an MBA in **Software Engineering**.
+- :earth_africa: I live in **São Paulo, SP - Brazil**.
 - :sweat_smile: I'm relatively new to programming. Any tips will be much appreciated.
-- :monocle_face: My interests are: coding, sleeping, eating out and watching movies/series.
+- :sparkles: My interests are: coding, sleeping, eating out and watching movies/series.
 - :plate_with_cutlery: My favorite food is Strogonoff (and BATATA according to my SoulCode friends).
   
 </br>
